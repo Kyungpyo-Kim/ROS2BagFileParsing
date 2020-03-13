@@ -22,7 +22,7 @@ int main(int argc, char ** argv)
   rosbag2::SequentialReader reader;
   rosbag2::StorageOptions storage_options{};
   
-  storage_options.uri = "/home/kyungpyo/git/ROS2BagFileParsing/rosbag2_test_data";
+  storage_options.uri = "../rosbag2_test_data";
   storage_options.storage_id = "sqlite3";
 
   rosbag2::ConverterOptions converter_options{};
