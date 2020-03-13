@@ -1,0 +1,6 @@
+dev_ws/build
+dev_ws/log
+dev_ws/install
+*shm
+*wal
+.vscode

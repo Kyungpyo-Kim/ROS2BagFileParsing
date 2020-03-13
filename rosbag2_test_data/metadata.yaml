@@ -1,0 +1,16 @@
+rosbag2_bagfile_information:
+  version: 1
+  storage_identifier: sqlite3
+  relative_file_paths:
+    - rosbag2_2020_03_13-23_47_56.db3
+  duration:
+    nanoseconds: 34946723365
+  starting_time:
+    nanoseconds_since_epoch: 1584110876764949803
+  message_count: 700
+  topics_with_message_count:
+    - topic_metadata:
+        name: /r2dpac/drv/sp/gps
+        type: r2dpac_msgs/msg/GpsRx
+        serialization_format: cdr
+      message_count: 700
