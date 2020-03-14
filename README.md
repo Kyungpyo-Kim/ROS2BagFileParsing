@@ -1,7 +1,8 @@
 # ROS2BagFileParsing
 ROS2 Bag file parsing
+Korean document: https://kyungpyo-kim.github.io/study/ROS2-Bag-file-parsing/
 
-## Getting started
+# Getting started
 
 1. Install ros1 melodic
 2. Install ros2 dashing
